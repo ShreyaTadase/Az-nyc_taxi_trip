@@ -1,0 +1,9 @@
+{
+	"name": "adf02-nyc-Taxi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f3a85073-162e-4aaf-a984-db4ad3ed46b4",
+		"tenantId": "5f0c202a-a440-40aa-a79f-3a2076da8b22"
+	}
+}
